@@ -1,8 +1,9 @@
 
-## installing dependencies 
+## Installing dependencies 
 cd shoppyglobe
+
 npm install 
 
 
-## running project
+## Running project
 npm start
